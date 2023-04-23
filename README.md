@@ -1,13 +1,17 @@
-<h3>Hello Wold</h3>
+<h3>Hello World</h3>
 <br/>
 
-![Screenshot from 2023-04-23 02-48-56](https://user-images.githubusercontent.com/126884299/233813760-31993e66-7678-46e8-aecd-67cd910df78b.png)
+![image](https://user-images.githubusercontent.com/126884299/233814041-2abae2e8-539f-4433-ab8d-a10526ee1935.png)
 <br/>
 <h3>Quote Generator</h3>
 <br/>
 
-![image](https://user-images.githubusercontent.com/126884299/233813774-edee7c6e-d4ee-422d-b149-a3c918b29f32.png)
+![image](https://user-images.githubusercontent.com/126884299/233814029-8534989c-028e-4a49-8487-64a322ecb241.png)
+
 <br/>
 <h3>Chat Gpt by Iframe</h3>
 <br/>
+
+![image](https://user-images.githubusercontent.com/126884299/233814063-8c7fadd3-48fa-49fe-a761-10c57c23e690.png)
+
 

@@ -1,0 +1,10 @@
+{
+    "name":"Hello world",
+    "description":"print a hello world",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"hello-world.png"
+    }
+}
